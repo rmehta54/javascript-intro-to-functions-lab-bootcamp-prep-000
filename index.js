@@ -26,4 +26,5 @@ function sayHiToGrandma(string)
   else if (string === shout(string)) {
     console.log("YES INDEED!")
 }
-  else (string === "")
+  else (string === "I love you, Grandma.")
+  console.log("I love you, too")
